@@ -1,4 +1,7 @@
 
+Merhaba ben Ahmet Alper Yıldırım . Yaptığım projelerin videoları aşağıda gösterildiği gibidir. Program olarak code composer studio v12.1 kullanılıp mikroişlemci olarak da Tiva™ TM4C123GH6PM Microcontroller üzerinde işlemler yapılmıştır.
+
+
 Proje 2 Örnek videosu: Lcd saat kurulumu
 
 
